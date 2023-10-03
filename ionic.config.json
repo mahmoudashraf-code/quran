@@ -1,0 +1,7 @@
+{
+  "name": "fristapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
